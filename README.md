@@ -1,0 +1,2 @@
+# mercury
+The first project!
